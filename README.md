@@ -2,7 +2,7 @@
 
 ## Linguagens: [![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/shiny/chikorita.gif)](https://pokemondb.net/pokedex/chikorita)
 <a href="https://github.com/goVIVIgo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=goVIVIgo&theme=gruvbox_light" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=goVIVIgo&theme=gruvbox_light" />&nbsp
 </a>
 <a href="https://github.com/goVIVIgo/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goVIVIgo&layout=compact&langs_count=8&card_width=320&hide=css&theme=gruvbox_light" />
